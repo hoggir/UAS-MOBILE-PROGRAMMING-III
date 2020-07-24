@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265543461579",
+    "firebase_url": "https://amikomhilang-e5fcc.firebaseio.com",
+    "project_id": "amikomhilang-e5fcc",
+    "storage_bucket": "amikomhilang-e5fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265543461579:android:b428ad3ec0a2461e58c94e",
+        "android_client_info": {
+          "package_name": "com.example.amikomhilang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265543461579-1qli9hn8ovd4ta4o6rll9dbg5licmjbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amikomhilang",
+            "certificate_hash": "8b54a3262016867ac30e78114a5cfecf112472e8"
+          }
+        },
+        {
+          "client_id": "265543461579-1ncrgamugf8cg1v9ik30lag0qg7884sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSzKurtGjI90vTWPus5_umTKAYV5P_WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265543461579-1ncrgamugf8cg1v9ik30lag0qg7884sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
